@@ -438,7 +438,7 @@
 
 /*** Single Page Hero Header Start ***/
 .bg-breadcrumb {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/main.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/main.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -542,9 +542,9 @@
     position: absolute;
     left: 0; 
     bottom: 0; 
-    border: 10px solid; 
+    
     border-color: var(--bs-white) var(--bs-white) var(--bs-white) var(--bs-white);
-    border-radius: 50%;
+   
 
 }
 
@@ -614,7 +614,7 @@
 
 /*** Appointment Start ***/
 .appointment {
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(../img/main.jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(../img/main.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1152,7 +1152,7 @@
 
 /*** Footer Start ***/
 .footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(../img/main.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(../img/main.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
